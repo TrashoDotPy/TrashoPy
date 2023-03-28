@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently improving **Java,C++ and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TrashoPy](https://github.com/TrashoPy)
+- 👨‍💻 All of my projects are available at [https://github.com/TrashoDotPy](https://github.com/TrashoDotPy)
 
 - 📫 How to reach me: **alberto.j.bengardino@gmail.com**
 
